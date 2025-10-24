@@ -4,7 +4,7 @@ A student majors in Cyberspace Security.
 
 You can contact me with tanpinsary@outlook.com
 
-[![Metrics](https://github.com/tanpinsary/tanpinsary/blob/master/github-metrics.svg)](https://github.com/Tanpinsary/Tanpinsary/blob/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Tanpinsary/Tanpinsary/main/github-metrics.svg)
 
 [![wakatime](https://wakatime.com/badge/user/a0a1a76d-0ee4-4a97-8f98-32faeaba5485.svg)](https://wakatime.com/@a0a1a76d-0ee4-4a97-8f98-32faeaba5485)
 
