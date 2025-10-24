@@ -1,5 +1,10 @@
-## Hi there 👋
+A student majors in Cyberspace Security.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanpinsary)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanpinsary&hide=markdown)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanpinsary)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Tanpinsary/Tanpinsary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
