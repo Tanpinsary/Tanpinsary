@@ -1,10 +1,13 @@
 A student majors in Cyberspace Security.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanpinsary)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> <img src="https://metrics.lecoq.io/tanpinsary?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanpinsary&hide=markdown)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=tanpinsary&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=graywhite" /> </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanpinsary)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanpinsary&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" /> </div>
+
+[![Harlok's WakaTime stats]("https://wakatime.com/share/@a0a1a76d-0ee4-4a97-8f98-32faeaba5485/2504628f-46cd-455b-b3f2-c1785ef2e70f.svg")
+
 <!--
 **Tanpinsary/Tanpinsary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
